@@ -1,0 +1,8 @@
+{
+  "name": "Remix THE GREAT SHIFT 2.0",
+  "description": "AI Business Intelligence \u0026 Growth Analyzer - Executive commerce and management intelligence platform built on the ACCESS → INTELLIGENCE → SCALE framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
